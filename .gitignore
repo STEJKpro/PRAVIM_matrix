@@ -2,3 +2,5 @@
 *.xlsx
 *.csv
 /__pycache__
+/cached_images
+/output
